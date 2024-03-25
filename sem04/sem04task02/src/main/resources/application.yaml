@@ -1,0 +1,3 @@
+spring.application.name=sem04task02
+data.parameter.min=100  
+data.parameter.max=900
