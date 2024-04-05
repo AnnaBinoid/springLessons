@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem07/OAuth2-service(c)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem07/OAuth2-service-with-db(c)" vcs="Git" />
   </component>
 </project>
